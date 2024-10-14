@@ -115,6 +115,11 @@ export const PROJECTS = [
 			"A web application that easily provides guidance and Reviews about any Movies & Tv shows.",
 		stack: [
 			{
+				id: "icon-4",
+				icon: SiFigma,
+				name: "Figma",
+			},
+			{
 				id: "icon-1",
 				icon: SiJavascript,
 				name: "React",
@@ -173,6 +178,11 @@ export const PROJECTS = [
 		content:
 			"A Website made for a Consultancy and Training company. It includes signing Up, Appointment Booking, Course materials, ...   .",
 		stack: [
+			{
+				id: "icon-4",
+				icon: SiFigma,
+				name: "Figma",
+			},
 			{
 				id: "icon-1",
 				icon: SiNextdotjs,
