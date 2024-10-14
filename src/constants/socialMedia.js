@@ -6,7 +6,7 @@ export const SOCIAL_MEDIA = [
 	{
 		id: "social-media-1",
 		icon: AiFillLinkedin,
-		link: "https://www.linkedin.com/in/amanuel-beyene-536b75247/",
+		link: "https://www.linkedin.com/in/amanuel-beyene-reta/",
 	},
 	{
 		id: "social-media-2",
@@ -21,7 +21,7 @@ export const SOCIAL_MEDIA = [
 
 	{
 		id: "social-media-4",
-		icon: faTelegram ,
+		icon: faTelegram,
 		link: "https://t.me/Portal_0",
 	},
 ];
