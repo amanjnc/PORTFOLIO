@@ -7,8 +7,8 @@ export { EDUCATION_LIST } from './education';
 export { PROJECTS } from './projects';
 export { OPEN_SOURCE_CONTRIBUTIONS } from './openSource';
 
-export const RESUME_LINK = "https://drive.google.com/file/d/1fAlHoNfCHkJCkmcpGFzbanTZorT2r2U_/view";
-export const REPO_LINK = "https://github.com/Sudhanva-Nadiger/Portfolio";
+export const RESUME_LINK ="file:///C:/Users/yeabb/Downloads/Amanuel-Beyene-FlowCV-Resume-20241011%20(2).pdf";
+export const REPO_LINK = "https://github.com/amanjnc/PORTFOLIO";
 
 export const CONTENT = {
     navs: [
@@ -37,24 +37,25 @@ export const CONTENT = {
         title: `Hello,`,
         sub1: "there",
         sub2: "I am",
-        firstName: "SUDHANVA",
-        LastName: "NADIGER",
+        firstName: "Amanuel",
+        LastName: "Beyene",
         image: Hero_person,
         hero_content: [
             {
                 count: "",
-                text: "Developer based in India. Aspiring Software Development Engineer.",
+                text: "Designer and Developer based in Ethiopia. ",
             },
         ],
     },
 
     Footer: {
-        text: "All © Copy Right Reserved 2023",
+        text: "All © Copy Right Reserved 2024",
     },
 };
 
 export const ABOUT_ME = {
-    name: "Sudhanva Nadiger",
-    tagLine: "Insanely ambitious coder | SWE intern @Appleute | Open source contributor",
-    intro: CONTENT.hero.hero_content.text
+	name: "Amanuel Beyene",
+	tagLine:
+		"An ambitious Developer | .Net Backend Developer @XcelTech solutions | Former Research intern @UIUC |",
+	intro: CONTENT.hero.hero_content.text,
 };

@@ -23,7 +23,7 @@ const FeatureCard = (props) => {
     <div
       className={`w-[64px] h-[64px] rounded-full items-center justify-center`}
     >
-      {/* <img src="" alt="National Institute Of Technology, Karnataka@seekpng.com" className="bg-blue"></img> */}
+      {/* <img src="" alt="Addis Ababa University" className="bg-blue"></img> */}
       <img src={icon} alt="icon" className="w-[80%] h-[80%] ml-8 sm:ml-auto object-contain" />
     </div>
     <div className="flex-1 flex flex-col ml-4">
