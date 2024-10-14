@@ -30,7 +30,7 @@ export const EXPERIENCES = [
 		positions: [
 			{
 				title: "UI/UX",
-				duration: "april 2024 - may 2024",
+				duration: "jan 2024 - Feb 2024",
 				content: [
 					{
 						text: "Worked on code Debugging(Java)",
@@ -54,7 +54,7 @@ export const EXPERIENCES = [
 			,
 			{
 				title: ".Net Backend Engineer",
-				duration: "Jan 2024 - ",
+				duration: "Jan 2024 - Aug 2024 ",
 				content: [
 					{
 						id: "f-1",
@@ -109,7 +109,7 @@ export const EXPERIENCES = [
 		positions: [
 			{
 				title: "Web Designer(UI/UX)",
-				duration: "Jan 2023",
+				duration: "Jan 2023-june 2023",
 				content: [
 					{
 						text: "Changed the design of the existing companies website by including new features in multiple space..",
@@ -168,7 +168,7 @@ export const EXPERIENCES = [
 		positions: [
 			{
 				title: "UI/UX Designer",
-				duration: "april 2024 - Aug 2024",
+				duration: "sep 2022 - Current",
 				content: [
 					{
 						text: "Worked on Designing multiple high fidelity wireframes",
