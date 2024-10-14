@@ -70,15 +70,16 @@ export const PROJECTS = [
 				icon: SiFigma,
 				name: "Figma",
 			},
-			{
-				id: "icon-1",
-				icon: SiNextdotjs,
-				name: "NextJs",
-			},
+
 			{
 				id: "icon-2",
 				icon: SiDotnet,
 				name: "Dotnet",
+			},
+			{
+				id: "icon-1",
+				icon: SiNextdotjs,
+				name: "NextJs",
 			},
 			{
 				id: "icon-3",
