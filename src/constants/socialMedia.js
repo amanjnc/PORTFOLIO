@@ -11,7 +11,7 @@ export const SOCIAL_MEDIA = [
 	{
 		id: "social-media-2",
 		icon: AiFillGithub,
-		link: "https://www.github.com/Sudhanva-Nadiger",
+		link: "https://github.com/amanjnc",
 	},
 	{
 		id: "social-media-3",
