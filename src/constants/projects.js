@@ -63,7 +63,7 @@ export const PROJECTS = [
 		github: "https://github.com/amanjnc/XcelTech.HRMS",
 		link: "",
 		image: Xceltech,
-		content: "An HR management system Built To run internal HR funtions rangin from Employee management, Attendances,  payrolls,  Training programs, hiring process ...",
+		content: "An HR management system Built To run internal HR funtions ranging from Employee management, Attendances,  payrolls,  Training programs, hiring process ...",
 		stack: [
 			{
 				id: "icon-0",
