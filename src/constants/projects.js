@@ -60,7 +60,7 @@ export const PROJECTS = [
 		title: "HR Management System",
 		figma:
 			"https://www.figma.com/design/e84bfh7vrz04NYhll2ij0e/HRMS(Human-Resource-management-system---Employee-mnagement-System)---HIgh-fidelity-(Community)?node-id=0-1&node-type=canvas",
-		github: "https://github.com/amanjnc/XcelTech.HRMS/tree/crud-features",
+		github: "https://github.com/amanjnc/XcelTech.HRMS",
 		link: "",
 		image: Xceltech,
 		content: "",
